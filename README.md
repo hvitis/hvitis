@@ -3,7 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
-__I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. I recently started studying Cybersecurity Master and I'm striving to become pentester.  My interest in the Django ecosystem led me to launch <a href="https://tobeprint3d.com/">tobeprint3D.com</a>, a 3D printing community for people who print.
+__I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. 
+
+### So far I made:
+
+- <a href="https://tobeprint3d.com/">tobeprint3D.com</a> 3D printing community for people who print and want something print3d.
+- <a href="https://youtalkyd.com/">youtalky.com</a> voice threads to share ideas and thoughts.
+- <a href="https://lekcja.online/">lekcja.online</a> language learning courses (my first Django project).
 
 
 ## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
@@ -12,11 +18,7 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 ### Currently:
 
-- 🔭 I'm currently working on <a href="https://www.tobeprinted.com/">3D printing open-source book</a> 
-- 🌱 I'm currently learning __cybersecurity__
-- 👯 I'm looking to collaborate on <a href="https://github.com/tobeprint3D">tobeprint3d.com</a> 
-
-- 💬 Ask me about __pairprogramming__
+- 👯 I'm looking to collaborate / pair program / learn together.
 - ⚡ Fun fact: I probably speak your language :)
 
 
