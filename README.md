@@ -7,8 +7,8 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 ### So far I made:
 
-- <a href="https://tobeprint3d.com/">tobeprint3D.com</a> 3D printing community for people who print and want something print3d.
-- <a href="https://youtalkyd.com/">youtalky.com</a> voice threads to share ideas and thoughts.
+- <a href="https://tobeprint3d.com/">tobeprint3d.com</a> 3D printing community for people who print and want something print3d.
+- <a href="https://youtalky.com/">youtalky.com</a> voice threads to share ideas and thoughts.
 - <a href="https://lekcja.online/">lekcja.online</a> language learning courses (my first Django project).
 
 
