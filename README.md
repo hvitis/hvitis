@@ -8,9 +8,9 @@
 ## Who am I: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
 __I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. 
 
-<p align='center'>  
-    Contact 🌎  
-</p> 
+
+### Contact 🌎  
+
 
 <p align='center'>  
   <a href="https://www.linkedin.com/in/adampi/">
