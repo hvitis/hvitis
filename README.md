@@ -1,18 +1,36 @@
 
 # Hi, I'm Adam 💻
 
-![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
+![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=0&fontAlign=40&height=50&section=head&color=gradient)
 
+
+
+## Who am I: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
 __I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. 
 
-## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
-- Blogging and sharing code on  <a href="https://www.hvitis.dev">hvitis.dev</a>
-- Add me on <a href="https://www.linkedin.com/in/adampi/">LinkedIn</a> 💼
- 
+<p align='center'>  
+    Contact 🌎  
+</p> 
+
+<p align='center'>  
+  <a href="https://www.linkedin.com/in/adampi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://hvitis.dev">
+    <img src="https://img.shields.io/badge/blog-%23ffff.svg?&style=for-the-badge&logo=react&logoColor=%230077B5" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/hvitis_">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 ### Currently:
 
-- 👯 I'm looking to collaborate / pair program / learn together.
-- ⚡ Fun fact: I probably speak your language :)
+- 🏡💻 Open to offerts. Write me using form on my blog.
+- 👥 I'm looking to collaborate / pair program / work together.
+- ⚡ Fun fact: I probably speak your language 🇩🇪🇵🇱🇪🇸🇫🇷🇬🇧🇷🇺
 
 ### I made:
 
