@@ -7,27 +7,21 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 ### I made:
 
-- <a href="https://tobeprint3d.com/">tobeprint3d.com</a> 3D printing community for people who print and want something print3d.
+- <a href="https://tobeprint3d.com/">tobeprint3d.com</a> 3D printing community for people who print and want something print3d. 
 
-<img src="tobeprint3d.com.png"
-     alt="tobeprint3d.com"
-     style="margin-left: 50px; border-radius: 20px; height: 150px" />
-
+![tobeprint3d.com](tobeprint3d.com.png "tobeprint3d.com")
 
 - <a href="https://youtalky.com/">youtalky.com</a> voice threads to share ideas and thoughts.
+ 
 
+![youtalky.com](youtalky.com.png "youtalky.com")
 
-<img src="youtalky.com.png"
-     alt="youtalky.com.png"
-     style="margin-left: 30px; border-radius: 20px; height: 80px" />
 
 
 - <a href="https://lekcja.online/">lekcja.online</a> language learning courses (my first Django project).
 
+![lekcja.online](lekcja.online.png "lekcja.online")
 
-<img src="lekcja.online.png"
-     alt="lekcja.online.png"
-     style="margin-left: 0px; border-radius: 20px; height: 150px" />
 
 
 ## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
