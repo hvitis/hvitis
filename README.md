@@ -28,7 +28,7 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 ### Currently:
 
-- 🏡💻 Open to offerts. Write me using form on my blog.
+- 🏡💻 Open to offerts.
 - 👥 I'm looking to collaborate / pair program / work together.
 - ⚡ Fun fact: I probably speak your language 🇩🇪🇵🇱🇪🇸🇫🇷🇬🇧🇷🇺
 
