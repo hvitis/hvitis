@@ -5,6 +5,15 @@
 
 __I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. 
 
+## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
+- Blogging and sharing code on  <a href="https://www.hvitis.dev">hvitis.dev</a>
+- Add me on <a href="https://www.linkedin.com/in/adampi/">LinkedIn</a> 💼
+
+### Currently:
+
+- 👯 I'm looking to collaborate / pair program / learn together.
+- ⚡ Fun fact: I probably speak your language :)
+
 ### I made:
 
 - <a href="https://tobeprint3d.com/">tobeprint3d.com</a> 3D printing community for people who print and want something print3d. 
@@ -24,14 +33,6 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 
 
-## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
-- Blogging and sharing code on  <a href="https://www.hvitis.dev">hvitis.dev</a>
-- Add me on <a href="https://www.linkedin.com/in/adampi/">LinkedIn</a> 💼
-
-### Currently:
-
-- 👯 I'm looking to collaborate / pair program / learn together.
-- ⚡ Fun fact: I probably speak your language :)
 
 
 ## Technologies I like using:
