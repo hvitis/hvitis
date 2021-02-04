@@ -6,7 +6,7 @@
 
 
 ## Who am I: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
-__I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. 
+__I__ am a Software Tester who is passionate about software. I value CI/CD, good tests, good performance, clean UI. Curious. Used different tools in different languages. In my free time I enjoy tinkering with with ReactJS, VueJS, Django. Currently learning C# and cybersec.
 
 
 ### Contact 🌎  
@@ -28,28 +28,16 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 ### Currently:
 
-- 🏡💻 Open to offerts.
+- 🏡💻 Open to offers.
 - 👥 I'm looking to collaborate / pair program / work together.
-- ⚡ Fun fact: I probably speak your language 🇩🇪🇵🇱🇪🇸🇫🇷🇬🇧🇷🇺
 
-### I made:
+### I am supporting idea of better memories:
 
-- <a href="https://www.tobeprint3d.com/" target="_blank">tobeprint3d.com</a> 3D printing community for people who print and want something print3d. 
-
-![tobeprint3d.com](tobeprint3d.com.png "tobeprint3d.com")
 
 - <a href="https://www.youtalky.com/" target="_blank">youtalky.com</a> voice threads to share ideas and thoughts.
 
 ![youtalky.com](youtalky.com.png "youtalky.com")
 
-- <a href="https://www.lekcja.online/" target="_blank">lekcja.online</a> language learning courses (my first Django project).
-
-![lekcja.online](lekcja.online.png "lekcja.online")
-
-
-## Technologies I like using:
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvitis" alt="hvitis" /> </p>
