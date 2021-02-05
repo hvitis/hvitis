@@ -6,7 +6,11 @@
 
 
 ## Who am I: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
-__I__ am a Software Tester who is passionate about software. I value CI/CD, good tests, good performance, clean UI. Curious. Used different tools in different languages. In my free time I enjoy tinkering with with ReactJS, VueJS, Django. Currently learning C# and cybersec.
+__I__ assure software Quality. I value CI/CD, good tests, good performance, clean UI. I have used different testing tools in different languages. Spotting bugs before user sees them. 🐛
+
+In my free time I enjoy tinkering with with ReactJS, VueJS, Django. 
+
+Currently learning C# and cybersec 🧑‍🎓
 
 
 ### Contact 🌎  
@@ -34,7 +38,7 @@ __I__ am a Software Tester who is passionate about software. I value CI/CD, good
 ### I am supporting idea of better memories:
 
 
-- <a href="https://www.youtalky.com/" target="_blank">youtalky.com</a> voice threads to share ideas and thoughts.
+- <a href="https://www.youtalky.com/hello" target="_blank">youtalky.com/hello</a> voice threads to share ideas and thoughts.
 
 ![youtalky.com](youtalky.com.png "youtalky.com")
 
