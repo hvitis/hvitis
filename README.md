@@ -37,12 +37,10 @@ const professionalSkills = {
   languages: ['Javascript', 'Python'],
   technologies: {
     frontEnd: {
-      js: ['React', 'Vue'],
+      js: ['React', 'Vue', 'NextJS'],
     },
     backEnd: {
-      python: ['Spring'],
-      js: ['Node', 'Express'],
-      csharp: ['Asp.net Core'],
+      python: ['Django', 'DRF', 'GeoDjango', 'PostgreSQL'],
     },
     testing: ['Postman', 'Selenium', 'Cypress', 'TestCafe'],
   },
@@ -64,5 +62,6 @@ Finishing MIT course on AI.
 ---
 
 📝 Blog [hvitis](https://hvitis.dev)
+📚 Personal Project [YouTalky.com](https://youtalky.com)
 
 ---
