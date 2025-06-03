@@ -36,19 +36,13 @@ const professionalSkills = {
 };
 ```
 
-```bash
-# Passions
+
+### Passions
 
 > [Reading books](https://www.palantiri.pl/) and [cataloguing them](https://www.lektuarium.pl/)
  
-### Current Goals
+#### Current Goals
 
 Passing PSPO I.
-```
 
----
 
-📝 Blog [hvitis](https://hvitis.dev)
-📚 Personal Project [YouTalky.com](https://youtalky.com)
-
----
