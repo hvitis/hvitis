@@ -39,8 +39,8 @@ const professionalSkills = {
 ```bash
 # Passions
 
-> <a href="[https://palantiri.pl/](https://www.palantiri.pl.com/)">Reading books</a> and <a href="[https://lektuarium.pl/](https://www.lektuarium.pl/)">cataloguing them</a>.
-
+> [Reading books](https://www.palantiri.pl/) and [cataloguing them](https://www.lektuarium.pl/)
+ 
 ### Current Goals
 
 Passing PSPO I.
