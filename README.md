@@ -1,4 +1,4 @@
-<p><em>Delivering high quality software. Product owner at <a href="[https://holovectors.com/](https://www.holovectors.com/)">HOLO vectors</a>.</em></p>
+_Delivering high quality software. Product owner at [HOLO vectors](https://www.holovectors.com/)_
 
 ```python
 class ProductOwner:
