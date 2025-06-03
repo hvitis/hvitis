@@ -1,4 +1,4 @@
-<p><em>Delivering high quality software. Product owner at <a href="[https://noctuai.com/](https://www.holovectors.com/)">HOLO vectors</a>.</em></p>
+<p><em>Delivering high quality software. Product owner at <a href="[https://holovectors.com/](https://www.holovectors.com/)">HOLO vectors</a>.</em></p>
 
 ```python
 class ProductOwner:
@@ -39,7 +39,7 @@ const professionalSkills = {
 ```bash
 # Passions
 
-> [Reading books](www.palantiri.pl) and [cataloguing them](www.lektuarium.pl)
+> <a href="[https://palantiri.pl/](https://www.palantiri.pl.com/)">Reading books</a> and <a href="[https://lektuarium.pl/](https://www.lektuarium.pl/)">cataloguing them</a>.
 
 ### Current Goals
 
