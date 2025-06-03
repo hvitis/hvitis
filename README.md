@@ -4,59 +4,67 @@
   <img alt="github-snake" src="https://github.com/hvitis/hvitis/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p><em>Assuring High Quality of Software at <a href="https://noctuai.com/">Noctuai</a>. We use <b>AI</b> to analyze videos.</code>
-</em></p>
+<p><em>Delivering high quality software at <a href="[https://noctuai.com/](https://www.holovectors.com/)">HOLO vectors</a>.</em></p>
 
 ```python
-class AdamsDay():
-   """Creates new approach to solving problem on every occurance."""
+class ProductOwner:
+    """Embodies the strategic vision and execution for product success."""
 
-  skills = ['communication', 'analytical thinking', 'polyglotism']
+    # Core competencies expected of a Product Owner
+    skills = [
+        'strategic thinking',
+        'market analysis',
+        'stakeholder management',
+        'roadmap definition',
+        'agile methodologies',
+        'user empathy',
+        'data-driven decision making'
+    ]
 
-  def __init__(self):
-      self.approaches = ['holistic', 'diligent', 'thorough']
-      self.skills = skills + new_skills
-
-  def learn_skill(self, problem, books, people, courses, imagination):
-        knowledge = books + people + courses + imagination
-        skill = knowledge.find_solution(problem)
-        self.skills += skill
-
-  def analyze_problem(self, problem):
-      definition = ''
-      for part in problem['parts']:
-          if part.required_skill() in self.skills:
-              return part.required_skill()
-          else:
-            self.learn_skill(problem)
+    def __init__(self, new_skills=None):
+        """
+        Initializes the Product Owner with key approaches and
+        the ability to integrate new skills.
+        """
+        if new_skills is None:
+            new_skills = []
+        # Fundamental approaches to product ownership
+        self.approaches = ['customer-centric', 'value-driven', 'iterative']
+        self.skills.extend(new_skills) # Use extend to add multiple skills
 
 ```
 
 ```javascript
 const professionalSkills = {
-  languages: ['Javascript', 'Python'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Vue', 'NextJS'],
+    languages: ['English', 'Spanish', 'Polish'], // Spoken languages for communication
+    methodologies: ['Scrum', 'Kanban', 'Lean Startup', 'Design Thinking'],
+    tools: {
+        productManagement: ['Jira', 'Aha!', 'Asana', 'Trello'],
+        analytics: ['Google Analytics', 'Mixpanel', 'Amplitude'],
+        prototyping: ['Figma', 'Sketch', 'Adobe XD'],
+        communicationCollaboration: ['Slack', 'Microsoft Teams', 'Miro'],
     },
-    backEnd: {
-      python: ['Django', 'DRF', 'GeoDjango', 'PostgreSQL'],
-    },
-    testing: ['Postman', 'Selenium', 'Cypress', 'TestCafe'],
-  },
-  spokenLanguages: ['English', 'Spanish', 'Polish'],
+    coreCompetencies: [
+        'User Story Mapping',
+        'Requirement Gathering',
+        'Competitive Analysis',
+        'Roadmap Planning',
+        'Feature Prioritization',
+        'A/B Testing',
+        'User Research',
+        'Value Proposition Design'
+    ],
 };
 ```
 
 ```bash
 # Passions
 
-> Reading books and collecting them surely influences my writing skills.
-> That is perfect since I like writing technical documentation.
+> Reading books and cataloguing them.
 
 ### Current Goals
 
-Finishing MIT course on AI.
+Finishing PSPO I.
 ```
 
 ---
